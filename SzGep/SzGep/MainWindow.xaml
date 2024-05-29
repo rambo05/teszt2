@@ -1,0 +1,20 @@
+﻿<Window x:Class="SzGep.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SzGep"
+        mc:Ignorable="d"
+        Title="Számológép" Height="300" Width="400">
+    <Grid>
+        <TextBox x:Name="szam" HorizontalAlignment="Left" Margin="21,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="334" FontSize="18" Height="38" TextChanged="TextBox_TextChanged"/>
+        <TextBlock x:Name="ere" HorizontalAlignment="Left" Margin="24,156,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" Height="34" Width="327"><Run Language="hu-hu" Text="..."/></TextBlock>
+        <Button x:Name="plus" Content="+" HorizontalAlignment="Left" Margin="25,78,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="plus_Click"/>
+        <Button x:Name="minus" Content="-" HorizontalAlignment="Left" Margin="77,77,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="minus_Click"/>
+        <Button x:Name="szor" Content="*" HorizontalAlignment="Left" Margin="125,78,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="szor_Click"/>
+        <Button x:Name="oszt" Content="/" HorizontalAlignment="Left" Margin="176,77,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="oszt_Click"/>
+        <Button x:Name="mar" Content="%" HorizontalAlignment="Left" Margin="231,76,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="mar_Click"/>
+        <Button x:Name="res" Content="C" HorizontalAlignment="Left" Margin="287,76,0,0" VerticalAlignment="Top" FontSize="20" Height="33" Width="38" Click="res_Click"/>
+
+    </Grid>
+</Window>

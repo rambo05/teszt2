@@ -1,0 +1,16 @@
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\bin\Debug\SzGep.exe.config
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\bin\Debug\SzGep.exe
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\bin\Debug\SzGep.pdb
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.csproj.AssemblyReference.cache
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\MainWindow.g.cs
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\App.g.cs
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep_MarkupCompile.cache
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep_MarkupCompile.lref
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\MainWindow.baml
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.g.resources
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.Properties.Resources.resources
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.csproj.GenerateResource.cache
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.csproj.CoreCompileInputs.cache
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.exe
+C:\Users\nagy.sandor.adam\source\repos\SzGep\SzGep\obj\Debug\SzGep.pdb
